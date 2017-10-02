@@ -1,0 +1,14 @@
+{
+  "name": "Cam Visualizer",
+  "version": "1.0.0",
+  "description": "Cam dynamic visualization via charts",
+
+  "standard": {
+    "globals": [
+      "$",
+      "_",
+      "d3",
+      "Tabletop"
+    ]
+  }
+}
